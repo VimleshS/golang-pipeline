@@ -4,9 +4,9 @@ import (
         "fmt"
         "time"
 
-        "github.com/VimleshS/testPipeline/ctx"
-        "github.com/VimleshS/testPipeline/done"
-        "github.com/VimleshS/testPipeline/simple"
+        "github.com/VimleshS/golang-pipeline/ctx"
+        "github.com/VimleshS/golang-pipeline/done"
+        "github.com/VimleshS/golang-pipeline/simple"
 )
 
 func main() {
